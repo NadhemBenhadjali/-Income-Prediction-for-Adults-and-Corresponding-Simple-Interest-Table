@@ -1,0 +1,1 @@
+# -Income-Prediction-for-Adults-and-Corresponding-Simple-Interest-Table
